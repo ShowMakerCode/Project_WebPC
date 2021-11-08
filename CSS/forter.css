@@ -1,0 +1,70 @@
+.footer{
+    background-color: rgb(16, 16, 16);
+    height: 250px;
+    border: none;
+    width: 100%;
+    padding: 0px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.mainfoot{
+    width: 1200px;
+    margin: 0px auto;
+}
+.box1foot{
+    width: 300px;
+    border: none;
+    padding: 30px auto;
+    margin-left: 45px;
+    float: left;
+    margin-top: 25px;
+}
+
+.box1foot{
+    color: white;
+    border: none;
+}
+p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+.box2foot{
+    margin-top: 25px;
+    margin-left: 60px;
+    width: 200px;
+    float: left;
+    color: white;
+    border: none;
+    font-family: 'Times New Roman';
+    font-size: 17px;
+}
+
+
+.box1foot>h3{
+    text-align: right;
+}
+
+.box1foot>h4{
+
+    font-family: 'Times New Roman';
+    margin-top: 20px;
+    text-align: center;
+}
+
+.box1foot1{
+    width: 400px;
+    color: white;
+    border: 0px solid white;
+    padding: 25px 10px;
+    float: right;
+}
+
+
+.form-control{
+    font-family:  'Times New Roman';
+    font-size: 15px;
+}
+
+

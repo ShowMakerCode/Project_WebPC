@@ -1,0 +1,80 @@
+.laptop{
+    width: 100%;
+    margin-top: -4px;
+    background-color: rgb(19, 18, 18);
+    height: 700px;
+    margin-bottom: 20px auto;
+}
+
+
+
+.chabd{
+    
+    width: 80%;
+    border: none;
+    height: 500px;
+    padding: 15 auto;
+    margin: 0 auto;
+
+}
+
+.laptop img{
+    border-radius: 10px;
+}
+
+.conbd{
+    position: relative;
+    border: none;
+    width: 45%;
+    padding: 0px 9px;
+    float: left;
+    margin-top: 40px;
+
+}
+
+.conbd2{
+    position: relative;
+    border: none;
+    width: 45%;
+    padding: 0px 9px;
+    float: right;
+    margin-top: 40px;
+
+}
+ 
+.laptop> .chabd > .conbd a{
+    text-decoration: none;
+    color: red;
+}
+.laptop> .chabd > .conbd a:link{
+    color: red;
+    text-decoration: none;
+}
+.laptop> .chabd > .conbd a:hover{
+    color: rgb(0, 0, 0);
+}
+
+
+
+.laptop> .chabd > .conbd2 a{
+    text-decoration: none;
+    color: red;
+}
+.laptop> .chabd > .conbd2 a:link{
+    color: red;
+    text-decoration: none;
+}
+.laptop> .chabd > .conbd2 a:hover{
+    color: rgb(0, 0, 0);
+}
+
+
+.text{
+    position: absolute;
+    font-family: Tahoma;
+    font-size: 22px;
+    font-weight: bold;
+    bottom: 17px;
+    right: 47px;
+}
+

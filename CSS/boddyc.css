@@ -1,0 +1,49 @@
+.chuotto{
+    position: relative;
+    width: 90%;
+    margin: 5px auto;
+    height: 1200px;
+}
+
+.chuotnho{
+    position: relative;
+    width: 23%;
+    float: left;
+    margin-top: 25px;
+    padding: 0px 10px;
+}
+
+.chuotnho img{
+    border: 0px solid black;
+    border-radius: 15px ;
+}
+
+.menh{
+    position: absolute;
+    bottom: 149px;
+    left: 25px;
+
+}
+.chuotto >.chuotnho>.menh a{
+    color: red;
+    text-decoration: none;
+}
+.chuotto >.chuotnho>.menh a:link{
+    color: red;
+}
+.chuotto >.chuotnho>.menh a:hover{
+    color: rgb(29, 0, 196);
+}
+
+.text{
+    position: absolute;
+    font-family:Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.chuotnho h4{
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+body{
+    margin: 0px auto;
+}
+
+
+.ntin{
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 600px;
+    left: 1350px;
+}

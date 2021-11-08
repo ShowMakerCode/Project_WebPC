@@ -1,0 +1,57 @@
+.footer{
+    background-color: rgb(0, 0, 0);
+    height: 300px;
+    border: none;
+    width: 100%;
+    padding: 0px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.mainfoot{
+    width: 1200px;
+    margin: 0px auto;
+}
+.box1foot{
+    width: 300px;
+    border: 0px solid white;
+    padding: 30px auto;
+    margin: 20px auto 0;
+    float: left;
+}
+
+.box1foot{
+    color: white;
+}
+p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+
+.box1foot>h3{
+    text-align: right;
+}
+
+.box1foot>h4{
+
+    font-family: 'Times New Roman';
+    margin-top: 20px;
+    text-align: center;
+}
+
+.box1foot1{
+    width: 400px;
+    color: white;
+    border: 0px solid white;
+    padding: 30px 10px;
+    margin: 20px auto 0;
+    float: right;
+}
+
+
+.form-control{
+    font-family:  'Times New Roman';
+    font-size: 15px;
+}
+

@@ -1,0 +1,222 @@
+.mhcr{
+    width: 100%;
+    margin-top: -4px;
+    background-color: rgb(18, 18, 18);
+    height: 510px;
+    margin-bottom: 20px auto;
+}
+
+.chacr{
+    width: 90%;
+    border: none;
+    height: 450px;
+    padding: 15 auto;
+    margin: 0 auto;
+
+}
+.concr{
+    position: relative;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-top: 45px;
+    
+}
+.concr1{
+    position: relative;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-top: 45px;
+    padding-left: 90px;
+    
+}
+
+.concr3{
+    position: relative;
+    width: 20%;
+    float: left;
+    margin-top: 16px;
+    padding: 0px 0px;
+    padding-left: 100px;
+    
+}
+
+
+.concr2{
+    position: relative;
+    width: 20%;
+    float: right;
+    margin-top: 16px;
+    padding-left: 40px;
+    
+}
+
+.chacr a{ 
+    text-decoration: none;
+}
+.chacr a:link{
+    color: red;
+    text-decoration: none;
+}
+.chacr a:hover{
+    color: rgb(64, 35, 228);
+}
+
+
+.text1{ 
+     position: absolute;
+    font-family: Tahoma;
+    font-size: 19px;
+    font-weight: bold;
+    bottom: 20px;
+    right: 78px;
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.manhinh{
+    width: 100%;
+    background-color: rgb(18, 18, 18);
+    height: 1050px;
+    margin-bottom: 20px auto;
+}
+
+.chabd{
+    
+    width: 80%;
+    border: none;
+    height: 500px;
+    padding: 15 auto;
+    margin: 0 auto;
+
+}
+
+.manhinh img{
+    border-radius: 10px;
+}
+
+.conbd{
+    position: relative;
+    border: none;
+    width: 45%;
+    padding: 0px 9px;
+    float: left;
+    margin-top: 40px;
+
+}
+
+.conbd2{
+    position: relative;
+    border: none;
+    width: 45%;
+    padding: 0px 9px;
+    float: right;
+    margin-top: 40px;
+
+}
+
+.mhcr>.chacr>.concr a{ 
+    text-decoration: none;
+    color: red;
+}
+.mhcr>.chacr>.concr a:link{
+    color: red;
+    text-decoration: none;
+}
+.mhcr>.chacr>.concr a:hover{
+    color: rgb(64, 35, 228);
+}
+
+
+.mhcr>.chacr>.concr1 a{ 
+    text-decoration: none;
+    color: red;
+}
+.mhcr>.chacr>.concr1 a:link{
+    color: red;
+    text-decoration: none;
+}
+.mhcr>.chacr>.concr1 a:hover{
+    color: rgb(64, 35, 228);}
+
+
+
+
+
+ .mhcr>.chacr>.concr2 a{ 
+        text-decoration: none;
+        color: red;
+    }
+.mhcr>.chacr>.concr2 a:link{
+        color: red;
+        text-decoration: none;
+    }
+ .mhcr>.chacr>.concr2 a:hover{
+        color: rgb(64, 35, 228);}   
+        
+        
+
+.mhcr>.chacr>.concr3 a{ 
+         text-decoration: none;
+        color: red;
+        }
+ .mhcr>.chacr>.concr3 a:link{
+        color: red;
+        text-decoration: none;
+        }
+.mhcr>.chacr>.concr3 a:hover{
+        color: rgb(64, 35, 228);}    
+    
+
+
+
+.manhinh>.chabd>.conbd a{ 
+            text-decoration: none;
+            color: red;
+ }
+ .manhinh>.chabd>.conbd a:link{
+            color: red;
+            text-decoration: none;
+        }
+.manhinh>.chabd>.conbd a:hover{
+            color: rgb(64, 35, 228);
+        }         
+
+.manhinh>.chabd>.conbd2 a{ 
+            text-decoration: none;
+            color: red;
+ }
+ .manhinh>.chabd>.conbd2 a:link{
+            color: red;
+            text-decoration: none;
+        }
+.manhinh>.chabd>.conbd2 a:hover{
+            color: rgb(64, 35, 228);
+        }   
+
+
+
+
+
+
+
+
+.text{
+    position: absolute;
+    font-family: Tahoma;
+    font-size: 22px;
+    font-weight: bold;
+    bottom: 60px;
+    right: 47px;
+}
